@@ -1,1 +1,5 @@
 Datasets/
+cache/
+models/
+*.npy
+*.pt
